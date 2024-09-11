@@ -1,0 +1,7 @@
+5) Chamando os interruptores de A, B, C e as lâmpadas de L1, L2 e L que estão localizados na sala S1, S2, S3 respectivamente. 
+Primeiro, ligo o interruptor A e deixo ele ligado por alguns minutos, depois desligo ele.
+Em seguida, ligo o interruptor B e deixo ele ligado.
+Depois vou para sala S1 e se a lâmpada L1 estiver ligada então significa que o interruptor B liga a lâmpada L1 pois o interruptor B é o único ligado. 
+Se não estiver ligado então eu toco na lâmpada e se ela estiver quente então o interruptor A liga a lâmpada L1 pois se está quente significa que é a lâmpada que ficou ligada por alguns minutos.
+Se estiver apagado e frio então é o interruptor C liga a lâmpada L1 pois como não foi ligado não aqueceu.
+Depois vou para próximo sala e deduzo o resto das correspondênciais entre os interruptores e as lâmpadas, dessa forma é possível descobrir com apenas duas idas.
